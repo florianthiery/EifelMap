@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WD1",
+                "maar": "Walsdorfer Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=4064",
+                "osm": "https://www.openstreetmap.org/node/13200939169"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.714205,
+                    50.271565
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AU3",
+                "maar": "Auel Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=23391",
+                "osm": "https://www.openstreetmap.org/node/13200955773"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.595058,
+                    50.282465
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AU4",
+                "maar": "Auel Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=23391",
+                "osm": "https://www.openstreetmap.org/node/13200955773"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.594934,
+                    50.282113
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE3",
+                "maar": "Dehner Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=8502",
+                "osm": "https://www.openstreetmap.org/node/13200943487"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.506598,
+                    50.292813
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HL2",
+                "maar": "Hoher List Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=23395",
+                "osm": "https://www.openstreetmap.org/node/13200972050"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.83567,
+                    50.164092
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HL4",
+                "maar": "Hoher List Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=23395",
+                "osm": "https://www.openstreetmap.org/node/13200972050"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.835055,
+                    50.164359
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
