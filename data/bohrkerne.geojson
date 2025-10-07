@@ -7,7 +7,10 @@
                 "name": "WD1",
                 "maar": "Walsdorfer Maar",
                 "pid": "https://kulturdb.de/einobjekt.php?id=4064",
-                "osm": "https://www.openstreetmap.org/node/13200939169"
+                "osm_nodeid": "13200939169",
+                "osm_url": "https://www.openstreetmap.org/node/13200939169",
+                "wikidata_id": "Q136451649",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q136451649"
             },
             "geometry": {
                 "coordinates": [
@@ -23,7 +26,10 @@
                 "name": "AU3",
                 "maar": "Auel Maar",
                 "pid": "https://kulturdb.de/einobjekt.php?id=23391",
-                "osm": "https://www.openstreetmap.org/node/13200955773"
+                "osm_nodeid": "13200955773",
+                "osm_url": "https://www.openstreetmap.org/node/13200955773",
+                "wikidata_id": "Q134466471",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q134466471"
             },
             "geometry": {
                 "coordinates": [
@@ -39,7 +45,10 @@
                 "name": "AU4",
                 "maar": "Auel Maar",
                 "pid": "https://kulturdb.de/einobjekt.php?id=23391",
-                "osm": "https://www.openstreetmap.org/node/13200955773"
+                "osm_nodeid": "13200955773",
+                "osm_url": "https://www.openstreetmap.org/node/13200955773",
+                "wikidata_id": "Q134466471",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q134466471"
             },
             "geometry": {
                 "coordinates": [
@@ -55,7 +64,10 @@
                 "name": "DE3",
                 "maar": "Dehner Maar",
                 "pid": "https://kulturdb.de/einobjekt.php?id=8502",
-                "osm": "https://www.openstreetmap.org/node/13200943487"
+                "osm_nodeid": "13200943487",
+                "osm_url": "https://www.openstreetmap.org/node/13200943487",
+                "wikidata_id": "Q134466523",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q134466523"
             },
             "geometry": {
                 "coordinates": [
@@ -71,7 +83,10 @@
                 "name": "HL2",
                 "maar": "Hoher List Maar",
                 "pid": "https://kulturdb.de/einobjekt.php?id=23395",
-                "osm": "https://www.openstreetmap.org/node/13200972050"
+                "osm_nodeid": "13200972050",
+                "osm_url": "https://www.openstreetmap.org/node/13200972050",
+                "wikidata_id": "Q136451651",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q136451651"
             },
             "geometry": {
                 "coordinates": [
@@ -87,7 +102,10 @@
                 "name": "HL4",
                 "maar": "Hoher List Maar",
                 "pid": "https://kulturdb.de/einobjekt.php?id=23395",
-                "osm": "https://www.openstreetmap.org/node/13200972050"
+                "osm_nodeid": "13200972050",
+                "osm_url": "https://www.openstreetmap.org/node/13200972050",
+                "wikidata_id": "Q136451651",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q136451651"
             },
             "geometry": {
                 "coordinates": [
