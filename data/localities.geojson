@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "localities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q586", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Bonn" }, "geometry": { "type": "Point", "coordinates": [ 7.102222222, 50.735277777 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q1017", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Aachen" }, "geometry": { "type": "Point", "coordinates": [ 6.083788, 50.776207 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q1842", "country": "http://www.wikidata.org/entity/Q32", "countryLabel": "Luxembourg", "itemLabel": "Luxembourg" }, "geometry": { "type": "Point", "coordinates": [ 6.132777777, 49.610555555 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q3104", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Koblenz" }, "geometry": { "type": "Point", "coordinates": [ 7.597777777, 50.359722222 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q3138", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Trier" }, "geometry": { "type": "Point", "coordinates": [ 6.63935, 49.75565 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q151831", "country": "http://www.wikidata.org/entity/Q31", "countryLabel": "Belgium", "itemLabel": "Eupen" }, "geometry": { "type": "Point", "coordinates": [ 6.033333333, 50.63333333300001 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q159838", "country": "http://www.wikidata.org/entity/Q31", "countryLabel": "Belgium", "itemLabel": "Malmedy" }, "geometry": { "type": "Point", "coordinates": [ 6.025833333, 50.423888888 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q204317", "country": "http://www.wikidata.org/entity/Q32", "countryLabel": "Luxembourg", "itemLabel": "Echternach" }, "geometry": { "type": "Point", "coordinates": [ 6.421666666, 49.811666666 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q258974", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Bitburg" }, "geometry": { "type": "Point", "coordinates": [ 6.525555555, 49.974722222 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q389985", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Gerolstein" }, "geometry": { "type": "Point", "coordinates": [ 6.661388888, 50.223888888 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q548918", "country": "http://www.wikidata.org/entity/Q183", "countryLabel": "Germany", "itemLabel": "Daun" }, "geometry": { "type": "Point", "coordinates": [ 6.82833, 50.1978 ] } },
+{ "type": "Feature", "properties": { "id": "http://www.wikidata.org/entity/Q1017404", "country": "http://www.wikidata.org/entity/Q32", "countryLabel": "Luxembourg", "itemLabel": "Junglinster" }, "geometry": { "type": "Point", "coordinates": [ 6.251388888, 49.711111111 ] } }
+]
+}

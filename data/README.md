@@ -53,3 +53,21 @@ HL https://kulturdb.de/einobjekt.php?id=23395
 # DEM
 
 * https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation
+
+# Städte
+
+* Aachen Q1017
+* Trier Q3138
+* Koblenz Q3104
+* Bonn Q586
+* Eupen Q151831
+* Malmédy Q159838
+* Gerolstein Q389985
+* Daun Q548918
+* Bitburg Q258974
+* Luxemburg Q1842
+* Junglinster (Q1017404)
+* Echternach (Q204317) 
+
+
+* Wikidata Query: https://w.wiki/FcVR
