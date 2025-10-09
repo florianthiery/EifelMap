@@ -28,3 +28,28 @@ Bohrkerne gehören als Datensätze eher in Wikidata oder in dein eigenes Fachrep
 🔗 Sinnvolle Verknüpfung OSM ↔ Wikidata ↔ Bohrkerne
 Ebene	Beispiel	Beschreibung
 OSM Node	node 13179811750
+
+# Flüsse
+
+* Rhein: https://overpass-turbo.eu/s/2dkU
+* Mosel: https://overpass-turbo.eu/s/2dkV
+* Sauer: https://overpass-turbo.eu/s/2dkW
+* Ahr: https://overpass-turbo.eu/s/2dkY
+* Rur: https://overpass-turbo.eu/s/2dkZ
+* Prüm: https://overpass-turbo.eu/s/2dl0
+* Kyll: https://overpass-turbo.eu/s/2dl1
+
+# Maare
+
+WD https://kulturdb.de/einobjekt.php?id=4064
+AU https://kulturdb.de/einobjekt.php?id=23391
+DE https://kulturdb.de/einobjekt.php?id=8502
+HL https://kulturdb.de/einobjekt.php?id=23395
+
+# Länder
+
+* https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/countries
+
+# DEM
+
+* https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation
