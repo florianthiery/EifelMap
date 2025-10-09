@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-09T16:07:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/291458117",
+        "name": "Ribbach",
+        "name:de": "Riebach",
+        "name:lb": "Rebich",
+        "waterway": "stream"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1372945,
+            50.129941
+          ],
+          [
+            6.1374507,
+            50.1299094
+          ],
+          [
+            6.1375848,
+            50.1298906
+          ],
+          [
+            6.137731,
+            50.1298794
+          ],
+          [
+            6.1377896,
+            50.1298828
+          ]
+        ]
+      },
+      "id": "way/291458117"
+    }
+  ]
+}

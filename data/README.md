@@ -70,5 +70,13 @@ HL https://kulturdb.de/einobjekt.php?id=23395
 * Junglinster (Q1017404)
 * Echternach (Q204317) 
 
-
 * Wikidata Query: https://w.wiki/FcVR
+
+## Eifel Polygon
+
+* Rhein ab Bad Honnef > Koblenz (Mündung Mosel)
+* Mosel Koblenz > Mündung Sauer (Wasserbilligerbrück)
+* Sauer von Wallendorf > Mündung Mosel
+* Our bis Dreiländerpunkt (BeDeLux)
+	*  Belgium–Germany–Luxembourg tripoint (Q27344570) 
+* Belgien: https://www.openstreetmap.org/relation/10601027
