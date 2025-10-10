@@ -79,5 +79,7 @@ HL https://kulturdb.de/einobjekt.php?id=23395
 * Sauer von Wallendorf > Mündung Mosel
 * Our bis Dreiländerpunkt (BeDeLux)
 	*  Belgium–Germany–Luxembourg tripoint (Q27344570)
-* Relation: Parc naturel des Hautes-Fagnes – Eifel (10601027)
+* Relation: Parc naturel des Hautes-Fagnes – Eifel (10601027) - äußerer Rand
 	* https://www.openstreetmap.org/relation/10601027
+* Parc naturel des Hautes-Fagnes – Eifel > Paustenbach
+* Paustenbach > Bad Honnef nach Sabine Rath
