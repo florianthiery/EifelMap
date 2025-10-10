@@ -78,7 +78,6 @@ HL https://kulturdb.de/einobjekt.php?id=23395
 * Mosel Koblenz > Mündung Sauer (Wasserbilligerbrück)
 * Sauer von Wallendorf > Mündung Mosel
 * Our bis Dreiländerpunkt (BeDeLux)
-	*  Belgium–Germany–Luxembourg tripoint (Q27344570) 
-* Belgien: https://www.openstreetmap.org/relation/10601027
+	*  Belgium–Germany–Luxembourg tripoint (Q27344570)
 * Relation: Parc naturel des Hautes-Fagnes – Eifel (10601027)
 	* https://www.openstreetmap.org/relation/10601027
