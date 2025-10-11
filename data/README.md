@@ -83,3 +83,15 @@ HL https://kulturdb.de/einobjekt.php?id=23395
 	* https://www.openstreetmap.org/relation/10601027
 * Parc naturel des Hautes-Fagnes – Eifel > Paustenbach
 * Paustenbach > Bad Honnef nach Sabine Rath
+
+## Map C
+
+* Auf Dickel
+	* https://kulturdb.de/einobjekt.php?id=30223
+	* lon: 6.68495, lat: 50.25913, Lagequalität der Koordinaten: Genau
+* Am Acker
+	* 50.256823/6.690835 (ca. Angabe)
+* Tuffwall (Walsdorfer Maar) 50.272700/6.711305
+* WD 1
+* way_32475257_SteinbruchMaeuseberg
+* way_29565208_Lavagrube_Goßberg

@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WD1",
+                "maar": "Walsdorfer Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=4064",
+                "osm_nodeid": "13200939169",
+                "osm_url": "https://www.openstreetmap.org/node/13200939169",
+                "wikidata_id": "Q136451649",
+                "wikidata_uri": "http://www.wikidata.org/entity/Q136451649"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.714205,
+                    50.271565
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
