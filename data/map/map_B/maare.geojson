@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walsdorfer Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=4064"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.711587,
+                    50.271915
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hoher List Maar",
+                "pid": "https://kulturdb.de/einobjekt.php?id=23395"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.854731,
+                    50.162418
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
