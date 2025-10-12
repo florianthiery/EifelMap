@@ -4,6 +4,6 @@
 "features": [
 { "type": "Feature", "properties": { "name": "Auf Dickel" }, "geometry": { "type": "Point", "coordinates": [ 6.68495, 50.25913 ] } },
 { "type": "Feature", "properties": { "name": "Am Acker" }, "geometry": { "type": "Point", "coordinates": [ 6.688043347787761, 50.257220608169774 ] } },
-{ "type": "Feature", "properties": { "name": "Tuffwall (Walsdorfer Maar)" }, "geometry": { "type": "Point", "coordinates": [ 6.717083089054688, 50.275078323807904 ] } }
+{ "type": "Feature", "properties": { "name": "Tuffwall (Walsdorfer Maar)" }, "geometry": { "type": "Point", "coordinates": [ 6.719620085835305, 50.271863478857206 ] } }
 ]
 }
