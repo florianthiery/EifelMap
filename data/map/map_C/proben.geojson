@@ -1,0 +1,103 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W1",
+				"spot": "Tuff wall (Walsdorfer maar)"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.715355,
+                    50.275515
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W2",
+				"spot": "Tuff wall (Walsdorfer maar)"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.718933,
+                    50.274722
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W3",
+				"spot": "Tuff wall (Walsdorfer maar)"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.270347,
+                    50.267489
+                ],
+                "type": "Point"
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "G1",
+				"spot": "Goßberg"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.707135,
+                    50.275163
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G2",
+				"spot": "Goßberg"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.707036,
+                    50.274995
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R1, R2, R3",
+				"spot": "Rockeskyll"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.680064,
+                    50.257258
+                ],
+                "type": "Point"
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "R4",
+				"spot": "Rockeskyll"
+            },
+            "geometry": {
+                "coordinates": [
+                    6.682352,
+                    50.256036
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}

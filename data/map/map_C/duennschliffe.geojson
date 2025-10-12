@@ -1,45 +1,9 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Auf Dickel"
-            },
-            "geometry": {
-                "coordinates": [
-                    6.68495,
-                    50.25913
-                ],
-                "type": "Point"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Am Acker"
-                
-            },
-            "geometry": {
-                "coordinates": [
-                    6.690835,
-                    50.256823
-                ],
-                "type": "Point"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Tuffwall (Walsdorfer Maar)"
-            },
-            "geometry": {
-                "coordinates": [
-                    6.711305,
-                    50.272700
-                ],
-                "type": "Point"
-            }
-        }
-    ]
+"type": "FeatureCollection",
+"name": "duennschliffe",
+"features": [
+{ "type": "Feature", "properties": { "name": "Auf Dickel" }, "geometry": { "type": "Point", "coordinates": [ 6.68495, 50.25913 ] } },
+{ "type": "Feature", "properties": { "name": "Am Acker" }, "geometry": { "type": "Point", "coordinates": [ 6.688043347787761, 50.257220608169774 ] } },
+{ "type": "Feature", "properties": { "name": "Tuffwall (Walsdorfer Maar)" }, "geometry": { "type": "Point", "coordinates": [ 6.717083089054688, 50.275078323807904 ] } }
+]
 }
